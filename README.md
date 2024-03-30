@@ -1,2 +1,2 @@
 # cpp_practice
-Leetcode problems
+HackerRank & Leetcode problems
