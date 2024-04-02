@@ -33,7 +33,7 @@ vector<string> split(const string& input ){
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-    string input = "3 12345678912345 a 334.23 14049.30493";
+    string input; // = "3 12345678912345 a 334.23 14049.30493";
     getline(cin, input); //get the input
 
     vector<string> tokens = split(input); //split the input according to the function defined above
